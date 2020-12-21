@@ -6,13 +6,6 @@
 ;*University of Waterloo
 ; */
  
-;*----------------------------------------------------------------------------
-;* Name:    Lab1_T.s 
-;* Purpose: To flash an LED at approximately 1 Hz 
-;* Author: 	Rasoul Keshavarzi 
-;* Revision: 0.1
-;* Changelog: Aug-26-2020 by Reinier Torres: Ported to STM32F401VE and added
-;*			  comments to improve understanding and encourage thinking
 ;*----------------------------------------------------------------------------*/
 ;************************** DO NOT CHANGE THIS CODE **************************
 ; Setups the MCU for work and enables peripherals for STM32F401FE and matches
